@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="src/assets/images/logos/favicon.png" height="80px"/>
-</p>
+<p align="center"><img src="src/assets/images/logos/favicon.png" alt="icone do instagram" height="80px"/></p>
 
 # <p align = "center">Instagram</p>
 
@@ -12,45 +10,33 @@
    <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" heigth="30px"/>
 </p>
 
-### :clipboard: Descrição
+## :clipboard: Descrição
 
 Este projeto é um clone da rede social [Instagram](https://www.instagram.com), simplificado, desenvolvido com HTML e CSS. Ele permite visualizar os posts no feed disponíveis na timeline do usuário, com uma interface semelhante à do site original.
 
-#### #️⃣ [Acesse aqui](https://gabrielatiago.github.io/Instagram/)
+#️⃣ [**Acesse aqui**](https://gabrielatiago.github.io/Instagram/)
 
----
+## :computer: Telas
 
-### :computer: Telas
+### Desktop
 
-##### Desktop:
+![app view on a large screen](src/assets/screen/large.png)
 
-<img src="src/assets/screen/large.png" alt="viewing the app on a large screen">
+### Tablet
 
-##### Tablet:
+![app view on a medium screen](src/assets/screen/medium-2.png)
 
-<img src="src/assets/screen/medium-2.png" alt="viewing the app on a medium screen">
+### Mobile
 
-##### Mobile:
+![app view on a mobile screen](src/assets/screen/mobile-1.png)
+![app view on a mobile screen](src/assets/screen/mobile-2.png)
+![app view on a mobile screen](src/assets/screen/mobile-3.png)
 
-<div>
-    <img src="src/assets/screen/mobile-1.png" alt="viewing the app on a mobile screen">
-    <img src="src/assets/screen/mobile-2.png" alt="viewing the app on a mobile screen">
-    <img src="src/assets/screen/mobile-3.png" alt="viewing the app on a mobile screen">
-</div>
+## 🎮 Usando
 
-$~$
+![using the app on a large screen](src/assets/screen/large-screen.gif)
 
----
-
-### 🎮 Usando
-
-<img src="src/assets/screen/large-screen.gif" alt="viewing the app on a large screen">
-
-$~$
-
----
-
-### :books: Lições Aprendidas
+## :books: Lições Aprendidas
 
 - Tags semânticas HTML
 - Hierarquia de css
@@ -60,18 +46,24 @@ $~$
 - Media screen
 - Design responsivo
 
----
-
-### :bulb: Reconhecimentos
+## :bulb: Reconhecimentos
 
 - [Badges para Github](https://github.com/alexandresanlim/Badges4-README.md-Profile#-database-)
-- [README Inspiração de README](https://gist.github.com/luanalessa/7f98467a5ed62d00dcbde67d4556a1e4#file-readme-md)
+- [Inspiração de README](https://gist.github.com/luanalessa/7f98467a5ed62d00dcbde67d4556a1e4#file-readme-md)
 - [Driven Education](https://www.driven.com.br)
 
----
+## :muscle: Contribuição
 
-### 👩‍🦱 Autora
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhoria, abra uma *issue* ou envie um *pull request*.
 
-- Gabriela Tiago é uma aluna de desenvolvimento web de Fullstack na Driven Education. Percorrendo o caminho do conhecimento, buscando aprimorar suas habilidades técnicas e de softskills, para que ela possa melhorar o trabalho que desenvolve.
+## :woman_technologist: Autora
 
-<br>[🔝 De volta ao topo](#instagram)<br>
+Gabriela Tiago de Araújo
+
+- email: <gabrielatiagodearaujo@outlook.com>
+- linkedin: <https://www.linkedin.com/in/gabrielatiago/>
+- portfolio: <https://gabrielatiago.vercel.app>
+
+$~$
+
+[🔝 De volta ao topo](#instagram)
